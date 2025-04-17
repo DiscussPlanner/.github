@@ -3,9 +3,6 @@
 ## Hi there 👋
 -->
 ## 📖 Documents
-[![Docusaurus](https://img.shields.io/badge/Docusaurus-latest-2E8555?style=for-the-badge&logo=docusaurus&logoColor=white)](https://discussplanner.netlify.app/)  
-
-
 <!--
 
 **Here are some ideas to get you started:**
