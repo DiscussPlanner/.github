@@ -4,7 +4,6 @@
 -->
 ## 📖 Documents
 [![Docusaurus](https://img.shields.io/badge/Docusaurus-latest-2E8555?style=for-the-badge&logo=docusaurus&logoColor=white)](https://discussplanner.netlify.app/)  
-[![Docusaurus(v0.3.0)](https://img.shields.io/badge/Docusaurus-Dev.0.3.0-ff33ff?style=for-the-badge&logo=docusaurus&logoColor=white)](https://development-0-3-0--discussplanner.netlify.app/)
 
 
 <!--
